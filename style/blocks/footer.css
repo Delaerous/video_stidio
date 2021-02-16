@@ -1,0 +1,50 @@
+
+  
+  .footer__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 44px 0;
+  }
+  
+  .footer-main__container {
+    padding: 38px 0 60px;
+    border-top: 1px solid rgba(255, 255, 255,0.1);
+  }
+  
+  .footer-main__container:before {
+    display: block;
+    position: absolute;
+    content: "";
+    width: 100%;
+    top: 0; 
+  }
+  
+  .footer__col {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .footer__col--alight--right {
+    
+    align-items: flex-end;
+  }
+  
+  
+  .footer__col--alight--left {
+      flex: 0.53;
+  }
+  
+  .footer__col--alight--right {
+    flex: 0.384;
+  }
+  
+  
+  
+  .contacts__footer-workhours {
+    font-size: 11px;
+    text-decoration: none;
+    color: #9A9A9A; 
+    margin-left: 26px;
+  }

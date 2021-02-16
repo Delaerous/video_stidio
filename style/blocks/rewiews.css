@@ -1,0 +1,90 @@
+
+.page-content-rewiews {
+    padding: 94px 0px 81px;
+}
+.rewiews {
+    column-count: 2;
+    column-gap: 26px;
+    margin-bottom: 32px;
+}
+
+.rewiews__item {
+    margin-bottom: 13px;
+    display: inline-block;
+}
+.rewiew {
+    padding: 50px 30px;
+    background: #F4F5F5;
+    border-radius: 5px;
+}
+
+
+.rewiew__item {
+    margin-bottom: 20px;
+}
+.rewiew__user::after {
+    content: url(/img/socials/vk-blue\ 1.png);
+    padding-left: 8px;
+}
+
+
+.rewiew__header {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 26px;
+} 
+.rewiew__photo {
+    margin-right: 21px;
+}
+
+
+.rewiew__user {
+    display: flex;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1A1B1E;
+    margin-bottom: 8px;
+    text-decoration: none;
+    padding-top: 15px;
+}
+
+.rewiew__user:hover {
+    color: #2E77A4;
+    text-decoration: underline;
+}
+
+
+
+.rewiew__title {
+    font-size: 30px;
+    color: #202020;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-left: 4px;
+}
+
+.rewiew__text {
+    color: #818181;
+    margin-bottom: 52px;
+    line-height: 27px;
+}
+
+.rewiew__date {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1A1B1E;
+}
+
+.rewiew__tags {
+    display: flex;
+    align-items: flex-start;
+}
+
+.rewiew__tag-item {
+    margin-right: 10px;
+    margin-bottom: 8px;
+}
+
+.review__tag-item:last-child {
+    margin-bottom: 0;
+}

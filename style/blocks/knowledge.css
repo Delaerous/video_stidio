@@ -1,0 +1,25 @@
+.knowledge__pic {
+    display: block;
+}
+    
+.knowledge__desc {
+    position: absolute;
+    bottom: 0;
+    padding: 37px 29px 10px 32px;
+    min-height: 179px;
+    display: flex;
+    flex-direction: column;
+    text-overflow: ellipsis;
+}
+  
+.knowledge__dateeime {
+    font-size: 14px;
+    margin-bottom: 14.5px;
+    
+}
+  
+.knowledge__title{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 5px;
+}

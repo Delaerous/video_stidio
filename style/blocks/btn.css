@@ -1,0 +1,59 @@
+.btn {
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 18px 54px;
+    border-radius: 35px;
+    text-decoration: none;
+    display: inline-block;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+  
+.btn--orange {
+    color: #fff;
+    background: #FF5500;
+}
+  
+.btn--orange:hover {
+    background: #FF3D00;
+}
+
+.btn--orange--welcome {
+    padding: 18px 59px;
+}
+  
+.btn--white {
+    color: #FF5500;
+    background: #fff;
+    border: 2px solid #FF5500;
+    box-sizing: border-box;
+}
+  
+.btn--white:hover {
+   background: #FF5500;
+   color: #fff;
+}
+
+.btn--orange-about {
+    padding: 18px 40px;
+    width: 168px;
+    color: #fff;
+    background: #FF5500;
+}
+
+.btn--orange-about:hover {
+    background: #FF3D00;
+}
+
+.btn--grey {
+    background: #8E8E8E;
+    color: white;
+}
+
+.btn--grey:hover {
+    background: #2B2B2B;
+
+}

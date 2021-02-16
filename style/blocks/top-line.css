@@ -1,0 +1,24 @@
+.top-line {
+    background: #17191C url(../../img/backgrounds/top-line.png) right 49% top no-repeat;
+    min-height: 416px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 21px;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.page-title {
+    font-size: 72px;
+    line-height: 1;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.page-title--rewiews {
+    margin-bottom: 100px;
+}
+
+.page-title--amenities {
+    margin-bottom: 99px;
+}

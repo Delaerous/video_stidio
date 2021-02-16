@@ -1,0 +1,27 @@
+.inner-section {
+    background: #fff;
+    color: #1A1B1E;
+    padding-top: 83px;
+}
+  
+.inner-section--bg--grey {
+    background: #F4F5F5;
+}
+
+.inner-section--bg--grey--rewiews {
+    padding: 75px 0px 52px;
+    background: #F4F5F5;
+}
+  
+.inner-section__title {
+    font-weight: 800;
+    font-size: 36px;
+    margin-bottom: 64px;
+    color: #202020;
+}
+  
+.inner-section__title--partners {
+    font-weight: bold;
+    font-size: 48px;
+    color: #1A1B1E;
+}

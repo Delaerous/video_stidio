@@ -1,0 +1,16 @@
+.main {
+    margin-bottom: 233px;
+    text-align: center;
+}
+.main__title {
+    margin-bottom: 11px;
+    font-size: 72px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.4;
+}
+
+.main__text {    
+    font-size: 18px;
+    margin-bottom: 41.5px;
+}

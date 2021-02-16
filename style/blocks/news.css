@@ -1,0 +1,22 @@
+.news__title {
+    font-weight: 800;
+    font-size: 36px;
+    margin-bottom: 51px;
+    text-transform: uppercase;
+}
+.news {
+    margin-bottom: 145px;
+}
+
+.news__list {
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+  
+.news__item {
+    position: relative;
+    overflow: hidden;
+}
+  
+ 

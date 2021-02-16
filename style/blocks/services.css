@@ -1,0 +1,43 @@
+.page-content {
+    background: white;
+    color:#303030;
+    padding: 94px 0px 85px;
+}
+
+.service {
+    display: flex;
+    text-decoration: none;
+}
+
+.service:hover .btn--white {
+    background: #FF3D00;
+    color: white;
+}
+
+.services__item {
+    margin-bottom: 43.5px;
+}
+
+.services__item:last-child {
+    margin-bottom: 63px;
+}
+
+.service__img {
+    margin-right: 5%;
+}
+
+.service__content {
+    padding-top: 11px;
+}
+
+.service__title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 29.5px;
+    color: black;
+}
+
+.service__desc {
+    line-height: 27px;
+    margin-bottom: 35px;
+}

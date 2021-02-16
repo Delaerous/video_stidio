@@ -1,0 +1,72 @@
+form {
+    margin-bottom: 42px;
+}
+
+
+.inner-section__title--rewiews {
+    font-weight: 800;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+.form__row {
+    display: flex;
+    margin-bottom: 29px;
+}
+
+
+  
+.form__input {
+    flex: 1; 
+    font-size: 18px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background: #fff;
+    color: #1A1B1E;
+    padding: 13px 27px;
+    margin-right: 28px;
+}
+  
+
+  
+.form__input::placeholder {
+    color: #666666;;
+}
+ 
+.form__input:focus {
+    color: #1A1B1E;
+    border-color:#CCCCCC;
+}
+
+.form__input:last-child {
+    margin-right: 0;
+}
+.form__input--textarea {
+    height: 235px;
+    padding: 38px 28px;
+}
+  
+.form__controls {
+    margin-bottom: 24px;
+    display: flex;
+}
+  
+.form__controls-title {
+    width: 38%;
+    font-size: 18px;
+    color: #1A1B1E;
+    padding-top: 11px;
+}
+  
+.form__btns {
+    display: flex;
+    justify-content: flex-end;
+}
+  
+.form__button {
+    margin-right: 13px;
+    padding: 18px 42px
+}
+
+.form__button:last-child {
+    margin-right: 0px;
+}

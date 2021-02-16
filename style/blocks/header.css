@@ -1,0 +1,14 @@
+.header__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    margin-bottom: 153px;
+    padding-top: 23px;
+}
+
+
+.top-line .header {
+    margin-bottom: 122px;
+}
